@@ -1,4 +1,5 @@
 # read number
+cd /Users/kun-yuchen/Documents/notes
 num=$(cat number.txt)
 
 # process number
